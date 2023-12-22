@@ -1,0 +1,7 @@
+C:\Users\Kornel\OneDrive\Pulpit\ARKUSZE INF.04\INF.04-01-23.01\Algorytm Eratostenesa\bin\Debug\Algorytm Eratostenesa.exe.config
+C:\Users\Kornel\OneDrive\Pulpit\ARKUSZE INF.04\INF.04-01-23.01\Algorytm Eratostenesa\bin\Debug\Algorytm Eratostenesa.exe
+C:\Users\Kornel\OneDrive\Pulpit\ARKUSZE INF.04\INF.04-01-23.01\Algorytm Eratostenesa\bin\Debug\Algorytm Eratostenesa.pdb
+C:\Users\Kornel\OneDrive\Pulpit\ARKUSZE INF.04\INF.04-01-23.01\Algorytm Eratostenesa\obj\Debug\Algorytm Eratostenesa.csproj.AssemblyReference.cache
+C:\Users\Kornel\OneDrive\Pulpit\ARKUSZE INF.04\INF.04-01-23.01\Algorytm Eratostenesa\obj\Debug\Algorytm Eratostenesa.csproj.CoreCompileInputs.cache
+C:\Users\Kornel\OneDrive\Pulpit\ARKUSZE INF.04\INF.04-01-23.01\Algorytm Eratostenesa\obj\Debug\Algorytm Eratostenesa.exe
+C:\Users\Kornel\OneDrive\Pulpit\ARKUSZE INF.04\INF.04-01-23.01\Algorytm Eratostenesa\obj\Debug\Algorytm Eratostenesa.pdb

@@ -1,0 +1,16 @@
+C:\Users\Kornel\OneDrive\Pulpit\ARKUSZE INF.04\INF.04-01-23.01\desktop-app\bin\Debug\net6.0-windows\desktop-app.exe
+C:\Users\Kornel\OneDrive\Pulpit\ARKUSZE INF.04\INF.04-01-23.01\desktop-app\bin\Debug\net6.0-windows\desktop-app.deps.json
+C:\Users\Kornel\OneDrive\Pulpit\ARKUSZE INF.04\INF.04-01-23.01\desktop-app\bin\Debug\net6.0-windows\desktop-app.runtimeconfig.json
+C:\Users\Kornel\OneDrive\Pulpit\ARKUSZE INF.04\INF.04-01-23.01\desktop-app\bin\Debug\net6.0-windows\desktop-app.dll
+C:\Users\Kornel\OneDrive\Pulpit\ARKUSZE INF.04\INF.04-01-23.01\desktop-app\bin\Debug\net6.0-windows\desktop-app.pdb
+C:\Users\Kornel\OneDrive\Pulpit\ARKUSZE INF.04\INF.04-01-23.01\desktop-app\obj\Debug\net6.0-windows\desktop_app.Form1.resources
+C:\Users\Kornel\OneDrive\Pulpit\ARKUSZE INF.04\INF.04-01-23.01\desktop-app\obj\Debug\net6.0-windows\desktop-app.csproj.GenerateResource.cache
+C:\Users\Kornel\OneDrive\Pulpit\ARKUSZE INF.04\INF.04-01-23.01\desktop-app\obj\Debug\net6.0-windows\desktop-app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kornel\OneDrive\Pulpit\ARKUSZE INF.04\INF.04-01-23.01\desktop-app\obj\Debug\net6.0-windows\desktop-app.AssemblyInfoInputs.cache
+C:\Users\Kornel\OneDrive\Pulpit\ARKUSZE INF.04\INF.04-01-23.01\desktop-app\obj\Debug\net6.0-windows\desktop-app.AssemblyInfo.cs
+C:\Users\Kornel\OneDrive\Pulpit\ARKUSZE INF.04\INF.04-01-23.01\desktop-app\obj\Debug\net6.0-windows\desktop-app.csproj.CoreCompileInputs.cache
+C:\Users\Kornel\OneDrive\Pulpit\ARKUSZE INF.04\INF.04-01-23.01\desktop-app\obj\Debug\net6.0-windows\desktop-app.dll
+C:\Users\Kornel\OneDrive\Pulpit\ARKUSZE INF.04\INF.04-01-23.01\desktop-app\obj\Debug\net6.0-windows\refint\desktop-app.dll
+C:\Users\Kornel\OneDrive\Pulpit\ARKUSZE INF.04\INF.04-01-23.01\desktop-app\obj\Debug\net6.0-windows\desktop-app.pdb
+C:\Users\Kornel\OneDrive\Pulpit\ARKUSZE INF.04\INF.04-01-23.01\desktop-app\obj\Debug\net6.0-windows\desktop-app.genruntimeconfig.cache
+C:\Users\Kornel\OneDrive\Pulpit\ARKUSZE INF.04\INF.04-01-23.01\desktop-app\obj\Debug\net6.0-windows\ref\desktop-app.dll
